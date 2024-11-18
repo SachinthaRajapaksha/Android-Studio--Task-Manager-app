@@ -2,7 +2,7 @@
 
 ## Description
 
-The Task Manager App is a simple and intuitive application built using **Kotlin** for managing your daily tasks. It allows users to:
+The Task Manager App is a simple and intuitive application built using **Kotlin** for managing your daily tasks. It also make use of "Recycler View" that efficiently displays tasks in a scrollable list for better performance and usability. It allows users to:
 
 - Add tasks
 - Remove tasks
