@@ -24,18 +24,7 @@ Whether you're organizing your work or personal life, this app aims to help you 
 
 ## Screenshots 📸
 
-To include screenshots of the app interface:
+   ![Home Screen](https://github.com/SachinthaRajapaksha/Android-Studio--Task-Manager-app/blob/main/ss1.png)
 
-1. Take screenshots of your app in action.
-2. Save the images in a directory in your project, e.g., `images/`.
-3. Use the following markdown syntax to include them in the README:
+   ![Add Task Screen](https://github.com/SachinthaRajapaksha/Android-Studio--Task-Manager-app/blob/main/ss2.png)
 
-   ```markdown
-   ### Home Screen
-   ![Home Screen](images/home_screen.png)
-
-   ### Add Task Screen
-   ![Add Task Screen](images/add_task_screen.png)
-
-   ### Edit Task Screen
-   ![Edit Task Screen](images/edit_task_screen.png)
